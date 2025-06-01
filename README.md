@@ -21,10 +21,14 @@ A real-time syntax highlighter that performs lexical and syntax analysis using a
 | Operators    | `+`, `==`    | `#FF5555`   |
 | Parentheses  | `()`, `{}`   | `#9CDCFE`   |
 
----
 
-## 🚀 Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/syntax-highlighter.git
-   cd syntax-highlighter
+
+##Highlighting updates in real-time:<br><br>
+![demo1](https://github.com/user-attachments/assets/c3ac5f1b-9aa9-4a17-9f54-70f85f4f147c)
+<br><br>
+##Syntax Errors are highlighted in red:<br><br>
+![demo2](https://github.com/user-attachments/assets/7853d2bc-cbdf-472e-849e-a87f2e80793d)
+
+
+
+
