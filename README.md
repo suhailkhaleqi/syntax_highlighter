@@ -29,6 +29,7 @@ A real-time syntax highlighter that performs lexical and syntax analysis using a
 ##Syntax Errors are highlighted in red:<br><br>
 ![demo2](https://github.com/user-attachments/assets/7853d2bc-cbdf-472e-849e-a87f2e80793d)
 
-
+#<b>watch the video<b><br>
+https://youtu.be/MlPr6asPgnw
 
 
