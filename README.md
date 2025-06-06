@@ -32,8 +32,6 @@ A real-time syntax highlighter that performs lexical and syntax analysis using a
 #<b>watch the video<b><br>
 https://youtu.be/MlPr6asPgnw<br><br>
 
-#check out the documentation<br>
-
 
 
 
