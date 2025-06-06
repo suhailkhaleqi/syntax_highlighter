@@ -30,8 +30,7 @@ A real-time syntax highlighter that performs lexical and syntax analysis using a
 ![demo2 (2)](https://github.com/user-attachments/assets/bc8b1d49-0e64-4c20-b23e-03af7c12475b)
 <br>
 documentation 
-## Project Documentation
-Download the full documentation:  
+## Project Documentation<br>
 [Documentation (2).pdf](https://github.com/suhailkhaleqi/syntax_highlighter/blob/main/Documentation%20(2).pdf?raw=true)
 #<b>watch the video<b><br>
 https://youtu.be/9pyKR6i_eCs
