@@ -30,6 +30,10 @@ A real-time syntax highlighter that performs lexical and syntax analysis using a
 ![demo2](https://github.com/user-attachments/assets/7853d2bc-cbdf-472e-849e-a87f2e80793d)
 
 #<b>watch the video<b><br>
-https://youtu.be/MlPr6asPgnw
+https://youtu.be/MlPr6asPgnw<br><br>
+
+#check out the documentation<br>
+file:///D:/programlama_diller/dersin%20projesi/Documentation.pdf
+
 
 
