@@ -33,7 +33,7 @@ A real-time syntax highlighter that performs lexical and syntax analysis using a
 https://youtu.be/MlPr6asPgnw<br><br>
 
 #check out the documentation<br>
-file:///D:/programlama_diller/dersin%20projesi/Documentation.pdf
+
 
 
 
